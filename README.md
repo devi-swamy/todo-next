@@ -1,4 +1,4 @@
 # todo-next
 next todo
 
-todo-next-cd.vercel.app
+https://todo-next-cd.vercel.app/
